@@ -6,7 +6,7 @@
 const MAX_QTY = 9;
 const productIdKey = "product";
 const orderIdKey = "order";
-const inputIdKey = "qte";
+const inputIdKe = "qte";
 
 // === global variables  ===
 // the total cost of selected products 
